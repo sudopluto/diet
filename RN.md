@@ -1,0 +1,36 @@
+- current issues
+    - lots of takeout
+        - pizza
+        - fried chicken
+        - thai, indian, middle eastern, japanese, burger
+    - lots of instant
+        - soup
+        - ramen
+        - rice & beans
+        - mac and cheese
+    - very processed
+    - feel zero impulse to cook
+    - barriers:
+        - stocked kitchen / fridge
+        - cooking food before i am hungry
+        - not good about storing extra / prepreped food / components
+        - feels sad eating alone
+
+- fixes:
+    - replace unhealthy takeout w/ healthy
+        - sweetgreen
+        - thai
+        - chipotle
+    - copy fav takeouts
+        - sweetgreen
+        - chipotle
+        - thai / asian stirfry
+    - stop eating at desk / bed
+        - only eat in family room / kitchen
+    - always have frozen rice / beans / veggies in freezer
+    - always have healty snacks ready to eat
+    - always have milk
+    - keep this up to date, try to make a habit out of trying and rating new recipies
+        - youtube, online
+        - share with mom to bond / feel accountable
+    - focus on cutting out anything processed besides bevs

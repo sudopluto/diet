@@ -1,0 +1,24 @@
+- cultures to explore
+    - latin
+        - casados
+            - rice, beans, veggies, protien
+        - burritos
+        - other rice dishes??
+    - middle eastern
+        - bean & rice based dishes
+    - mediterianan
+        - summer time salads and wraps
+    - asian
+        - japanese / korean
+            - fish
+            - daily type foods
+                - soup
+                - rice and meat
+                - one pot meals
+        - chinese????
+            - really compicated, ignore for now except for nice recipies
+    - slav
+        - explore their soups & other winter meals
+
+- stores / places besides trader joes
+    - or use trader joes frozen meals as inspo
