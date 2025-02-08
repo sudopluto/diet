@@ -5,6 +5,7 @@
 
 - pasta
     - stir fry veggies and red sauce
+        - ground beef in red sauce?
     - spagetti & meatball??
         - frozen meatball
 
@@ -16,7 +17,10 @@
         - onion
         - peas
     - or just use trader joes pre-mixed frozen
-    - tofu for protien
+    - protien
+        - fried eggs
+        - fried tofu
+        - ground beef
 
 - dals: start trying to make these more often with instant pot please
     - rajama

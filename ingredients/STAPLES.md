@@ -17,6 +17,7 @@
         - kidney
         - chickpea
         - dals
+    - ground beef
 
 - snacks
     - pumpkin seeds
