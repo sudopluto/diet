@@ -1,26 +1,13 @@
 - current issues
-    - lots of takeout
-        - pizza
-        - fried chicken
-        - thai, indian, middle eastern, japanese, burger
-    - lots of instant
-        - soup
-        - ramen
-        - rice & beans
-        - mac and cheese
     - very processed
-    - feel zero impulse to cook
+      - cookies for snack / breakfast
+        - need to figure out how to have quick and ready snacks and leftovers
     - barriers:
         - stocked kitchen / fridge
         - cooking food before i am hungry
         - not good about storing extra / prepreped food / components
-        - feels sad eating alone
 
 - fixes:
-    - replace unhealthy takeout w/ healthy
-        - sweetgreen
-        - thai
-        - chipotle
     - copy fav takeouts
         - sweetgreen
         - chipotle
@@ -30,6 +17,7 @@
     - always have frozen rice / beans / veggies in freezer
     - always have healty snacks ready to eat
     - always have milk
+      - protien shake as quick and ready snack
     - keep this up to date, try to make a habit out of trying and rating new recipies
         - youtube, online
         - share with mom to bond / feel accountable

@@ -17,7 +17,9 @@
         - kidney
         - chickpea
         - dals
-    - ground beef
+    - ground meat
+      - prefer lean beef, turkey, chicken
+    - canned tuna / fish
 
 - snacks
     - pumpkin seeds

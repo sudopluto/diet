@@ -9,6 +9,9 @@
     - spagetti & meatball??
         - frozen meatball
 
+- fish
+  - mayo, hot sauce & red chilli, and rice
+
 - stir fry veggies
     - fresh
         - brocoli

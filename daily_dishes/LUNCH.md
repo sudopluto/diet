@@ -12,6 +12,10 @@
 
 - stir fry veggies & wrap
 
+- leftover rice
+  - mayo, hot sauce, chilli flakes
+
+
 - salad bowl
     - quinoa, beans / meat, potatoes / starch, sauce
     - need to experiment, copy sweetgreens / lookup recipie
